@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_v3QqMAxaEeaphIOC5TX4Bg" name="DBU" id="_ikE84AxaEeaphIOC5TX4Bg" label="DBU" dataPackage="_wM3t0AxaEeaphIOC5TX4Bg" DatabaseType="Microsoft SQL Server" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://cdtssql282d:1433/dCSG_Lilly_Weekly_Reporting;" Port="1433" Username="dcia_user" Password="M9T+xZhsDSMVOj0Yjdio9w==" ServerName="cdtssql282d" DatasourceName="" FileFieldName="" SID="dCSG_Lilly_Weekly_Reporting" SqlSynthax="SQL Syntax" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_v3QqMQxaEeaphIOC5TX4Bg" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_v3xnkAxaEeaphIOC5TX4Bg" tag="package filter" value=""/>
+    <taggedValue xmi:id="_v348UAxaEeaphIOC5TX4Bg" tag="Status" value=""/>
+    <taggedValue xmi:id="_v348UQxaEeaphIOC5TX4Bg" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_v348UgxaEeaphIOC5TX4Bg" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_v348UwxaEeaphIOC5TX4Bg" tag="Description" value=""/>
+    <taggedValue xmi:id="_v348VAxaEeaphIOC5TX4Bg" tag="Author" value=""/>
+    <taggedValue xmi:id="_v348VQxaEeaphIOC5TX4Bg" tag="otherParameter"/>
+    <taggedValue xmi:id="_v_9TMAxaEeaphIOC5TX4Bg" tag="DB ProductName" value="Microsoft SQL Server"/>
+    <taggedValue xmi:id="_v_9TMQxaEeaphIOC5TX4Bg" tag="DB ProductVersion" value="11.00.3153"/>
+    <taggedValue xmi:id="_v_9TMgxaEeaphIOC5TX4Bg" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_v3QqMgxaEeaphIOC5TX4Bg" key="CONN_PARA_KEY_USERNAME" value="dcia_user"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_wM3t0AxaEeaphIOC5TX4Bg" name="dCSG_Lilly_Weekly_Reporting" dataManager="_v3QqMAxaEeaphIOC5TX4Bg">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_wM3t0QxaEeaphIOC5TX4Bg" name="db_accessadmin"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_wM3t0gxaEeaphIOC5TX4Bg" name="db_backupoperator"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_wM3t0wxaEeaphIOC5TX4Bg" name="db_datareader"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_wM3t1AxaEeaphIOC5TX4Bg" name="db_datawriter"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_wM3t1QxaEeaphIOC5TX4Bg" name="db_ddladmin"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_wM3t1gxaEeaphIOC5TX4Bg" name="db_denydatareader"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_wM3t1wxaEeaphIOC5TX4Bg" name="db_denydatawriter"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_wM3t2AxaEeaphIOC5TX4Bg" name="db_owner"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_wM3t2QxaEeaphIOC5TX4Bg" name="db_securityadmin"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_wM3t2gxaEeaphIOC5TX4Bg" name="dbo"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_wM3t2wxaEeaphIOC5TX4Bg" name="guest"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_wM3t3AxaEeaphIOC5TX4Bg" name="IMS_PRODUCTION\rdmpusr"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_wM3t3QxaEeaphIOC5TX4Bg" name="INFORMATION_SCHEMA"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_wM3t3gxaEeaphIOC5TX4Bg" name="INTERNAL\PLYG-CIA_SQL_Users"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_wM3t3wxaEeaphIOC5TX4Bg" name="INTERNAL\PLYG-DataAdmin"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_wM3t4AxaEeaphIOC5TX4Bg" name="SQLDBACollector"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_wM3t4QxaEeaphIOC5TX4Bg" name="sys"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>
