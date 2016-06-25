@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_bFYp0DrVEeaPj5KG6D0THg" id="_bFO40DrVEeaPj5KG6D0THg" label="try_union" purpose="sdfasdf" description="jsf" creationDate="2016-06-25T18:35:00.141+0530" modificationDate="2016-06-25T20:27:58.631+0530" version="0.1" statusCode="" item="_bFYp0jrVEeaPj5KG6D0THg" displayName="try_union">
+    <author href="../talend.project#_ULutggXnEeaVYa6UP50IBA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_bFYp0TrVEeaPj5KG6D0THg" path="" locked="true" lockDate="2016-06-25T18:35:00.344+0530">
+    <locker href="../talend.project#_ULutggXnEeaVYa6UP50IBA"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_bFYp0jrVEeaPj5KG6D0THg" property="_bFYp0DrVEeaPj5KG6D0THg" state="_bFYp0TrVEeaPj5KG6D0THg">
+    <process href="try_union_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

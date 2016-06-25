@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_v3QqMwxaEeaphIOC5TX4Bg" id="_ikE84AxaEeaphIOC5TX4Bg" label="DBU" creationDate="2016-04-27T15:00:57.999+0530" modificationDate="2016-04-27T15:01:00.280+0530" version="0.1" statusCode="" item="_v3QqNQxaEeaphIOC5TX4Bg" displayName="DBU">
+    <author href="../../talend.project#_ULutggXnEeaVYa6UP50IBA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_v3QqNAxaEeaphIOC5TX4Bg" path=""/>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_v3QqNQxaEeaphIOC5TX4Bg" property="_v3QqMwxaEeaphIOC5TX4Bg" state="_v3QqNAxaEeaphIOC5TX4Bg">
+    <connection href="DBU_0.1.item#_v3QqMAxaEeaphIOC5TX4Bg"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>

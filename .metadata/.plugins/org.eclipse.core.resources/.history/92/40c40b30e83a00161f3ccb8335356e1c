@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_AG4hZzroEeaPj5KG6D0THg" id="_AG4hYDroEeaPj5KG6D0THg" label="zp" creationDate="2016-06-25T20:47:59.542+0530" modificationDate="2016-06-25T20:47:32.149+0530" version="0.1" statusCode="" item="_AG4haTroEeaPj5KG6D0THg" displayName="zp">
+    <author href="../../../talend.project#_ULutggXnEeaVYa6UP50IBA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_AG4haDroEeaPj5KG6D0THg" path="Challenge" locked="true" lockDate="2016-06-25T20:49:17.848+0530">
+    <locker href="../../../talend.project#_ULutggXnEeaVYa6UP50IBA"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:DelimitedFileConnectionItem xmi:id="_AG4haTroEeaPj5KG6D0THg" property="_AG4hZzroEeaPj5KG6D0THg" state="_AG4haDroEeaPj5KG6D0THg">
+    <connection href="zp_0.1.item#_AG4hYTroEeaPj5KG6D0THg"/>
+  </TalendProperties:DelimitedFileConnectionItem>
+</xmi:XMI>

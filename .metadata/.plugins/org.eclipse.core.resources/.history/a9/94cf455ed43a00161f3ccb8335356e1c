@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType confirmationNeeded="false" name="Default">
+    <contextParameter comment="" name="path" prompt="path?" promptNeeded="false" type="id_String" value="a"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="dev">
+    <contextParameter comment="" name="path" prompt="path?" promptNeeded="false" type="id_String" value="C:\NAK1\WORK\talend\EmpIn.txt"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="prod">
+    <contextParameter comment="" name="path" prompt="path?" promptNeeded="false" type="id_String" value="C:\NAK1\WORK\talend\EmpIn_Br1.txt"/>
+  </talendfile:ContextType>
+</xmi:XMI>

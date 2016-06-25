@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_aVjykDrZEeaPj5KG6D0THg" name="dim" dataPackage="_aVjykTrZEeaPj5KG6D0THg" Server="Localhost 127.0.0.1" FilePath="E:/NAK/data/geo_dim.txt" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" CsvOption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_aVjykTrZEeaPj5KG6D0THg" name="default" dataManager="_aVjykDrZEeaPj5KG6D0THg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_aVjykjrZEeaPj5KG6D0THg" id="_TDf6MDrZEeaPj5KG6D0THg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aVjykzrZEeaPj5KG6D0THg" label="st_cd" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aVjylDrZEeaPj5KG6D0THg" label="zip_cd" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_aVjylTrZEeaPj5KG6D0THg" label="addr" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

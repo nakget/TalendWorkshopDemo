@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_aVjyljrZEeaPj5KG6D0THg" id="_aVaooDrZEeaPj5KG6D0THg" label="dim" purpose="dim" description="dim" creationDate="2016-06-25T19:03:33.098+0530" modificationDate="2016-06-25T19:02:55.990+0530" version="0.1" statusCode="" item="_aVjymDrZEeaPj5KG6D0THg" displayName="dim">
+    <author href="../../../talend.project#_ULutggXnEeaVYa6UP50IBA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_aVjylzrZEeaPj5KG6D0THg" path="Challenge" locked="true" lockDate="2016-06-25T19:15:06.078+0530">
+    <locker href="../../../talend.project#_ULutggXnEeaVYa6UP50IBA"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:DelimitedFileConnectionItem xmi:id="_aVjymDrZEeaPj5KG6D0THg" property="_aVjyljrZEeaPj5KG6D0THg" state="_aVjylzrZEeaPj5KG6D0THg">
+    <connection href="dim_0.1.item#_aVjykDrZEeaPj5KG6D0THg"/>
+  </TalendProperties:DelimitedFileConnectionItem>
+</xmi:XMI>

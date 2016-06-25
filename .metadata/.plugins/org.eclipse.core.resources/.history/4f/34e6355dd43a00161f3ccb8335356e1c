@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_U4zO4QXnEeaVYa6UP50IBA" id="_U4zO4AXnEeaVYa6UP50IBA" label="MySQLFilterRow" creationDate="2016-04-19T09:59:37.870+0530" modificationDate="2016-04-19T09:59:37.870+0530" version="0.1" item="_U4zO4wXnEeaVYa6UP50IBA">
+    <author href="../../../talend.project#_ULutggXnEeaVYa6UP50IBA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_U4zO4gXnEeaVYa6UP50IBA" path="MySQL/system"/>
+  <TalendProperties:SQLPatternItem xmi:id="_U4zO4wXnEeaVYa6UP50IBA" property="_U4zO4QXnEeaVYa6UP50IBA" state="_U4zO4gXnEeaVYa6UP50IBA" system="true" eltName="MySQL">
+    <content href="MySQLFilterRow_0.1.item#/"/>
+  </TalendProperties:SQLPatternItem>
+</xmi:XMI>

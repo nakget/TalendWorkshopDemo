@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_HDO6gAYZEeahRbxq37PjMg" id="_-jfx4A0aEearLc90rlWe5g" label="RUN_SP_fixedRow" purpose="practice update insert" description="he" creationDate="2016-04-19T15:55:59.848+0530" modificationDate="2016-04-28T14:08:36.524+0530" version="0.1" statusCode="" item="_HDO6ggYZEeahRbxq37PjMg" displayName="RUN_SP_fixedRow">
+    <author href="../talend.project#_ULutggXnEeaVYa6UP50IBA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_-kG14A0aEearLc90rlWe5g" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_HDO6ggYZEeahRbxq37PjMg" property="_HDO6gAYZEeahRbxq37PjMg" state="_-kG14A0aEearLc90rlWe5g">
+    <process href="RUN_SP_fixedRow_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

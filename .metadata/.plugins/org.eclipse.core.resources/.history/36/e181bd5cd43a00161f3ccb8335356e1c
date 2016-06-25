@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType confirmationNeeded="false" name="Default">
+    <contextParameter comment="" name="_355s_Server" prompt="_355s_Server?" promptNeeded="false" type="id_String" value="cdtssql355s"/>
+    <contextParameter comment="" name="_355s_Port" prompt="_355s_Port?" promptNeeded="false" type="id_String" value="1433"/>
+    <contextParameter comment="" name="_355s_Password" prompt="_355s_Password?" promptNeeded="false" type="id_Password" value="M9T+xZhsDSMVOj0Yjdio9w=="/>
+    <contextParameter comment="" name="_355s_Login" prompt="_355s_Login?" promptNeeded="false" type="id_String" value="dCIA_User"/>
+    <contextParameter comment="" name="_355s_Database" prompt="_355s_Database?" promptNeeded="false" type="id_String" value="AdventureWorksDW2014"/>
+    <contextParameter comment="" name="_355s_AdditionalParams" prompt="_355s_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="_355s_Schema" prompt="_355s_Schema?" promptNeeded="false" type="id_String" value="dbo"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="prod">
+    <contextParameter comment="" name="_355s_Server" prompt="_355s_Server?" promptNeeded="false" type="id_String" value="cdtssql355s"/>
+    <contextParameter comment="" name="_355s_Port" prompt="_355s_Port?" promptNeeded="false" type="id_String" value="1433"/>
+    <contextParameter comment="" name="_355s_Password" prompt="_355s_Password?" promptNeeded="false" type="id_Password" value="M9T+xZhsDSMVOj0Yjdio9w=="/>
+    <contextParameter comment="" name="_355s_Login" prompt="_355s_Login?" promptNeeded="false" type="id_String" value="dCIA_User"/>
+    <contextParameter comment="" name="_355s_Database" prompt="_355s_Database?" promptNeeded="false" type="id_String" value="AdventureWorksDW2014"/>
+    <contextParameter comment="" name="_355s_AdditionalParams" prompt="_355s_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+    <contextParameter comment="" name="_355s_Schema" prompt="_355s_Schema?" promptNeeded="false" type="id_String" value="dbo"/>
+  </talendfile:ContextType>
+</xmi:XMI>

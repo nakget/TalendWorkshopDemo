@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_8tpSoAYLEeaVYa6UP50IBA" id="_iJuIAAYLEeaVYa6UP50IBA" label="mssql" creationDate="2016-04-19T14:21:47.015+0530" modificationDate="2016-04-19T15:13:56.085+0530" version="0.1" statusCode="" item="_8tpSogYLEeaVYa6UP50IBA" displayName="mssql">
+    <author href="../../talend.project#_ULutggXnEeaVYa6UP50IBA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_8tpSoQYLEeaVYa6UP50IBA" path=""/>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_8tpSogYLEeaVYa6UP50IBA" property="_8tpSoAYLEeaVYa6UP50IBA" state="_8tpSoQYLEeaVYa6UP50IBA">
+    <connection href="mssql_0.1.item#_8tndcAYLEeaVYa6UP50IBA"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>

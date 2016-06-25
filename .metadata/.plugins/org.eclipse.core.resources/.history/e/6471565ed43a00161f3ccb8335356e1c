@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_hXTzoAYLEeaVYa6UP50IBA" id="_hXTMkAYLEeaVYa6UP50IBA" label="DB" creationDate="2016-04-19T14:18:43.482+0530" modificationDate="2016-04-19T15:25:03.825+0530" version="0.1" statusCode="" item="_hXTzogYLEeaVYa6UP50IBA" maxInformationLevel="ERROR" displayName="DB">
+    <author href="../talend.project#_ULutggXnEeaVYa6UP50IBA"/>
+    <informations xmi:id="_zppMcAYUEeahRbxq37PjMg" level="ERROR" text="b$d34 cannot be resolved to a variable"/>
+    <informations xmi:id="_zppMcQYUEeahRbxq37PjMg" level="ERROR" text="Syntax error on token &quot;Invalid Character&quot;, invalid AssignmentOperator"/>
+    <informations xmi:id="_zppMcgYUEeahRbxq37PjMg" level="ERROR" text="Dek cannot be resolved to a variable"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_hXTzoQYLEeaVYa6UP50IBA" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_hXTzogYLEeaVYa6UP50IBA" property="_hXTzoAYLEeaVYa6UP50IBA" state="_hXTzoQYLEeaVYa6UP50IBA">
+    <process href="DB_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_GA-FsQXsEeaVYa6UP50IBA" id="_GA-FsAXsEeaVYa6UP50IBA" label="tryFileInputTOlog" creationDate="2016-04-19T10:33:45.547+0530" modificationDate="2016-04-19T13:28:46.724+0530" version="0.1" statusCode="" item="_GA-FswXsEeaVYa6UP50IBA" displayName="tryFileInputTOlog">
+    <author href="../talend.project#_ULutggXnEeaVYa6UP50IBA"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_GA-FsgXsEeaVYa6UP50IBA" path="" locked="true" lockDate="2016-04-27T14:48:59.302+0530">
+    <locker href="../talend.project#_ULutggXnEeaVYa6UP50IBA"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_GA-FswXsEeaVYa6UP50IBA" property="_GA-FsQXsEeaVYa6UP50IBA" state="_GA-FsgXsEeaVYa6UP50IBA">
+    <process href="tryFileInputTOlog_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

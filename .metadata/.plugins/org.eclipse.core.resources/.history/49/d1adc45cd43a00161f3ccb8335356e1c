@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_8tndcAYLEeaVYa6UP50IBA" name="mssql" id="_iJuIAAYLEeaVYa6UP50IBA" label="mssql" dataPackage="_ORVusAYTEeahRbxq37PjMg" DatabaseType="Microsoft SQL Server" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://cdtssql282d:1433/dCIA_Lilly_OBU_DDD_WKLY;" Port="1433" Username="dCIA_User" Password="M9T+xZhsDSMVOj0Yjdio9w==" ServerName="cdtssql282d" DatasourceName="" FileFieldName="" SID="dCIA_Lilly_OBU_DDD_WKLY" SqlSynthax="SQL Syntax" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="DWOBUWA1">
+    <taggedValue xmi:id="_8torkAYLEeaVYa6UP50IBA" tag="Is Conn Need Reload" value="true"/>
+    <taggedValue xmi:id="_8t1f4AYLEeaVYa6UP50IBA" tag="package filter" value=""/>
+    <taggedValue xmi:id="_8t_Q4AYLEeaVYa6UP50IBA" tag="Status" value=""/>
+    <taggedValue xmi:id="_8t_Q4QYLEeaVYa6UP50IBA" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_8t_Q4gYLEeaVYa6UP50IBA" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_8t_Q4wYLEeaVYa6UP50IBA" tag="Description" value=""/>
+    <taggedValue xmi:id="_8t_Q5AYLEeaVYa6UP50IBA" tag="Author" value=""/>
+    <taggedValue xmi:id="_8t_Q5QYLEeaVYa6UP50IBA" tag="otherParameter"/>
+    <taggedValue xmi:id="_810XMAYLEeaVYa6UP50IBA" tag="DB ProductName" value="Microsoft SQL Server"/>
+    <taggedValue xmi:id="_810XMQYLEeaVYa6UP50IBA" tag="DB ProductVersion" value="11.00.3153"/>
+    <taggedValue xmi:id="_810XMgYLEeaVYa6UP50IBA" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_8torkQYLEeaVYa6UP50IBA" key="CONN_PARA_KEY_USERNAME" value="dCIA_User"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_ORVusAYTEeahRbxq37PjMg" name="dCIA_Lilly_OBU_DDD_WKLY" dataManager="_8tndcAYLEeaVYa6UP50IBA">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_ORVusQYTEeahRbxq37PjMg" name="DWOBUWA1"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>
